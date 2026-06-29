@@ -1,13 +1,17 @@
-{
-        "device_id": "40de8c2751e4cb0a",
-        "key": "ecdf7302844327ce",
-        "expirydate": "03-01-2030",
-        "Allowoffline": true
-    },
-{
-        "device_id": "40de8c21e4cb0a",
-        "key": "ecdf7302844327ce",
-        "expirydate": "03-01-2030",
-        "Allowoffline": true
-    },
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
 
